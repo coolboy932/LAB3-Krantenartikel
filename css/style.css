@@ -1,0 +1,25 @@
+body {
+    background-color: #CFE3E3;
+    border: 1px solid black;
+    padding-bottom: 50px;
+}
+
+.right {
+    float: right;
+    margin: 0px 10px 15px 10px;
+}
+
+.right_tekst {
+    text-align: right;
+    margin: 100px 10px 15px 10px;
+}
+
+.left {
+    float: left;
+    margin: 0px 10px 15px 10px;
+}
+
+.left_tekst {
+    text-align: left;
+    margin: 100px 10px 15px 10px;
+}
